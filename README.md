@@ -22,7 +22,7 @@ No installation necessary, page already live
 
 Simply click the generate password button and follow the prompts
 
-![alt text](assets/actual.png)
+![alt text](Assets/actual.png)
 
 ## Credits
 
