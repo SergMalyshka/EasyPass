@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 - Making an automated password generator for future use.
 - Learning how to use all JS tools thought to us to make a cohesive functional application
 
