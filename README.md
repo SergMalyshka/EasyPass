@@ -1,7 +1,8 @@
-# <Password Generator>
+# <EasyPass Password Generator>
 
 ## Description
 
+- Live link: https://sergmalyshka.github.io/EasyPass/
 - Making an automated password generator for future use.
 - Learning how to use all JS tools thought to us to make a cohesive functional application
 
